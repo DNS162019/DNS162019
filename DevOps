@@ -1,0 +1,35 @@
+
+DevOps Starter documentation to deploy to Azure
+
+DevOps Starter presents a simplified experience where you bring your existing code and Git repository, or choose from one of the sample applications to create a continuous integration (CI) and continuous delivery (CD) pipeline or workflow to Azure. DevOps Starter now supports creating GitHub actions workflows.
+About DevOps Starter
+Overview
+
+    What is DevOps Starter?
+
+video
+
+    Create CI/CD with the DevOps Starter using Azure DevOps (8:53)
+
+Configure CI/CD
+Quickstart
+
+    Node.js using GitHub actions
+    .NET
+    Node.js
+    Java
+    Python
+    PHP
+    Ruby
+    Go
+
+Deploy to Azure
+Tutorial
+
+    Deploy your app to Azure Web App using GitHub actions
+    Bring your own code with GitHub
+    Deploy your ASP.NET app to Azure Virtual Machines
+    Deploy your ASP.NET app and Azure SQL Database
+    Deploy your app to Azure Container Service and Kubernetes
+    Deploy your app to Azure Service Fabric
+
